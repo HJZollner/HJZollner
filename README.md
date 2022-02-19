@@ -1,4 +1,8 @@
-## &#x1f4c8; GitHub Stats
+
+My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research. You can find me on 
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HJZollner)
+## GitHub Stats
 
 <a href="https://github.com/HJZollner/github-profile-hjzollner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJZollner&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
