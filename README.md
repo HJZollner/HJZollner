@@ -1,14 +1,11 @@
 
-My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research.
+My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research. You can visit my [Academic Website](https://hjzollner.github.io/) or the links below to learn more.
 
-
-
-## Social & External Links
+## External Links
 [![github](https://img.shields.io/badge/HJZollner-000000?style=for-the-badge&logo=GitHub&logoColor=2bbc8a)](https://github.com/HJZollner)
 [![Twitter](https://img.shields.io/badge/HelgeZollner-000000?style=for-the-badge&logo=Twitter&logoColor=2bbc8a)](https://twitter.com/HelgeZollner)
 [![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=ORCID&logoColor=2bbc8a)](https://orcid.org/0000-0002-7148-292X)
 [![RG](https://img.shields.io/badge/RG-000000?style=for-the-badge&logo=ResearchGate&logoColor=2bbc8a)](https://www.researchgate.net/profile/Helge-Joern-Zoellner)
-[![RG](https://img.shields.io/badge/RG-000000?style=for-the-badge&logo=&logoColor=2bbc8a)](https://www.researchgate.net/profile/Helge-Joern-Zoellner)
 
 ## GitHub Stats
 
