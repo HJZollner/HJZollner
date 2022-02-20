@@ -1,15 +1,14 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BBC8A&duration=4000&width=650&lines=Advanced+magnetic+resonance+spectroscopy+of+the+brain;Develop+new+linear-combination+modeling+methods;Investigate+GABA+%26+GSH+and+many+more...;Open+and+reproducible+MRS+research;Open-source+software+development;Tufte-eske+visualization)](https://git.io/typing-svg)\
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BBC8A&duration=4000&width=650&lines=Advanced+magnetic+resonance+spectroscopy+of+the+brain;Develop+new+linear-combination+modeling+methods;Investigate+GABA+%26+GSH+and+many+more...;Open+and+reproducible+MRS+research;Open-source+software+development;Tufte-eske+visualization)](https://git.io/typing-svg)
 
-## [About me](https://hjzollner.github.io/)
-My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research.
-
-## External Links
 [![github](https://img.shields.io/badge/HJZollner-000000?style=for-the-badge&logo=GitHub&logoColor=2bbc8a)](https://github.com/HJZollner)
 [![Twitter](https://img.shields.io/badge/HelgeZollner-000000?style=for-the-badge&logo=Twitter&logoColor=2bbc8a)](https://twitter.com/HelgeZollner)
 [![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=ORCID&logoColor=2bbc8a)](https://orcid.org/0000-0002-7148-292X)
 [![RG](https://img.shields.io/badge/RG-000000?style=for-the-badge&logo=ResearchGate&logoColor=2bbc8a)](https://www.researchgate.net/profile/Helge-Joern-Zoellner)
+
+## [About me](https://hjzollner.github.io/)
+My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research.
 
 ## GitHub Stats
 
