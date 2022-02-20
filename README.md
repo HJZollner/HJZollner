@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BBC8A&duration=4000&width=650&lines=Advanced+magnetic+resonance+spectroscopy+of+the+brain;Develop+new+linear-combination+modeling+methods;Investigate+GABA+%26+GSH+and+many+more...;Open+and+reproducible+MRS+research;Open-source+software+development;Tufte-eske+visualization)](https://git.io/typing-svg)\
 
-## About me
-My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research. You can visit my [Academic Website](https://hjzollner.github.io/) or the links below to learn more.
+## [About me](https://hjzollner.github.io/)
+My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research.
 
 ## External Links
 [![github](https://img.shields.io/badge/HJZollner-000000?style=for-the-badge&logo=GitHub&logoColor=2bbc8a)](https://github.com/HJZollner)
