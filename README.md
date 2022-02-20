@@ -1,4 +1,8 @@
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BBC8A&duration=4000&width=650&lines=Advanced+magnetic+resonance+spectroscopy+of+the+brain;Develop+new+linear-combination+modeling+methods;Investigate+GABA+%26+GSH+and+many+more...;Open+and+reproducible+MRS+research;Open-source+software+development;Tufte-eske+visualization)](https://git.io/typing-svg)\
+
+## About me
 My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins University interested in developing and applying advanced magnetic resonance spectroscopy. I'm passionate about open-source software development for reproducible MRS research. You can visit my [Academic Website](https://hjzollner.github.io/) or the links below to learn more.
 
 ## External Links
@@ -33,10 +37,4 @@ My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins U
 [2]: https://github.com/HJZollner
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+[Inspirational README.md on GitHub and moving svg](https://github.com/DenverCoder1/DenverCoder1)
