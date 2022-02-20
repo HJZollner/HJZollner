@@ -1,4 +1,4 @@
-
+[![Header](https://github.com/HJZollner/github-profile-hjzollner/blob/19fc0dbb21ae7644e681bc6039391528a22d9740/TW_banner.png "Header")](https://hjzollner.github.io/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BBC8A&duration=4000&width=650&lines=Advanced+magnetic+resonance+spectroscopy+of+the+brain;Develop+new+linear-combination+modeling+methods;Investigate+GABA+%26+GSH+and+many+more...;Open+and+reproducible+MRS+research;Open-source+software+development;Tufte-eske+visualization)](https://git.io/typing-svg)
 
@@ -15,8 +15,8 @@ My name is Helge Jörn Zöllner and I'm a Postdoctoral Fellow at Johns Hopkins U
 <a href="https://github.com/HJZollner/github-profile-hjzollner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJZollner&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HJZollner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/HJZollner/github-profile-hjzollner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HJZollner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Helge's GitHub Stats" />
 </a>
 
 <a href="https://github.com/HJZollner/SpecVis">
